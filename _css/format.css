@@ -55,4 +55,6 @@ main {
         font-size: large;
         font-family: cursive;
        }
-      
+      footer {
+          font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+      }
