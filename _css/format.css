@@ -1,3 +1,12 @@
+header {
+    border-radius: 8px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+    margin: 15px;
+   
+}
 main {
     background: #7dadbb;
     display: flex;
@@ -7,7 +16,7 @@ main {
     margin: 10px;
     padding: 2px;
        } 
-       .h1{
+       h1{
         color: #03385b;
         font-size: xx-large;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -18,7 +27,7 @@ main {
         font-size: x-large;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
        }
-       .li {
+       a {
         font-size: large;
         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
        }
@@ -26,15 +35,18 @@ main {
         list-style: none;
         display: flex;
         justify-content: center;
-        padding: 0;
+        padding: 2px;
         font-size: large;
-       
+        border: solid 2px;
+        border-color: #7DADBB; 
+        border-radius: 8px;
        }
        nav li {
-        margin: 10px;
+        margin: 5px;
+        
        }
        img {
-        width: 400px;
+        width: 300px;
         height:auto;
         border: #ffffff dashed 4px;
        }
