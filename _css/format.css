@@ -7,7 +7,7 @@ header {
     margin: 15px;
    
 }
-main {
+body {
     background: #7dadbb;
     display: flex;
     flex-direction: column;
@@ -55,6 +55,4 @@ main {
         font-size: large;
         font-family: cursive;
        }
-      footer a {
-          font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-      }
+      
