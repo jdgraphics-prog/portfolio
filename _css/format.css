@@ -35,15 +35,14 @@ header {
         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         text-decoration: none;
        }
-       nav {
-        border: solid 2px #7DADBB; 
-       }
+
        nav ul {
         list-style: none;
         display: flex;
         justify-content: center;
         font-size: large;
         border-radius: 8px;
+        border: solid 2px #7DADBB; 
        }
        nav li {
         margin: 5px;
@@ -87,7 +86,8 @@ footer{
     box-sizing: border-box;
     width: 100%;
     align-self: stretch;
-    
+    margin-top: auto;
+
 
 }
       
