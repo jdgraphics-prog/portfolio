@@ -6,6 +6,7 @@ body {
     text-align: center;
     margin: 10px;
     padding: 2px;
+    flex-wrap: wrap;
        } 
 header {
     border: soilid 1px #03385b;
@@ -64,9 +65,8 @@ header {
         width: 40%;
         height:auto;
         border: solid 4px #ffffff;
-        float: left;
        }
-       
+
        .describe {
         color: #ffffff;
         font-size: large;
