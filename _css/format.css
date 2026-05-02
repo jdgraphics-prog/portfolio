@@ -13,10 +13,10 @@ header {
     padding-left: 10px;
     padding-right: 10px;
     background-color: white;
-    margin: 15px;
+    margin: 15px auto;
     text-align: center;
     width:40%;
-   justify-content: center;
+   
 }
        h1{
         color: #03385b;
