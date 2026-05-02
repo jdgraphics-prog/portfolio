@@ -33,7 +33,8 @@ header {
         list-style: none;
         font-size: large;
         border-radius: 8px;
-        border: solid 2px #7DADBB; 
+        border-left: solid 2px #7DADBB; 
+        border-right: solid 2px #7DADBB; 
         
         }
        
