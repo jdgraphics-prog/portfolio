@@ -75,6 +75,9 @@ footer{
     text-align: center;
     font-size: medium;
     background-color: white;
+    
+}
+.foot {
     width: 100vw;
     position: relative;
     left: 50%;
@@ -83,5 +86,4 @@ footer{
     margin-right: -50vw;
 
 }
-
       
