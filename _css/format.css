@@ -85,8 +85,8 @@ footer{
     margin: 0;
     padding: 1rem;
     box-sizing: border-box;
-    width: 100vw;
-    margin-left: calc(-50vw + 50%);
+    width: 100%;
+    align-self: stretch;
 
 }
       
