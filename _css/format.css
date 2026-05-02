@@ -34,10 +34,7 @@ header {
         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         text-decoration: none;
        }
-       nav{
-        width: 70%;
-        margin: 5px auto;
-       }
+       
        nav ul {
         list-style: none;
         display: flex;
@@ -45,6 +42,8 @@ header {
         font-size: large;
         border-radius: 8px;
         border: solid 2px #7DADBB; 
+        width: 70%;
+        margin: 5px auto;
        }
        nav li {
         margin: 5px;
