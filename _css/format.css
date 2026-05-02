@@ -32,6 +32,7 @@ header {
        a {
         font-size: large;
         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-decoration: none;
        }
        nav ul {
         list-style: none;
@@ -48,9 +49,13 @@ header {
        }
        nav a { 
         text-decoration: none;
+        color: black;
        }
        nav a:visited {
-        color:coral;
+        color:#1A7595;
+       }
+       nav a:hover {
+        color: #615FFF;
        }
        img {
         width: 40%;
@@ -65,6 +70,6 @@ header {
 footer{
     text-align: center;
     font-size: medium;
-    
+
 }
       
