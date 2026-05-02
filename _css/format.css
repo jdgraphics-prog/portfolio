@@ -78,9 +78,10 @@ footer{
     
 }
 .foot {
-    width: 100vw;
-    position: absolute;
-   
+    width: 100%;
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
 
 }
       
