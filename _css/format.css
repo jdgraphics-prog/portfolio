@@ -78,6 +78,7 @@ footer{
 }
 .foot {
     width: 100%;
+    display:block;
     margin: 0;
     padding: 1rem;
     box-sizing: border-box;
