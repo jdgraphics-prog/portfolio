@@ -41,11 +41,11 @@ header {
         display: flex;
         justify-content: center;
         font-size: large;
-        border: solid 2px #7DADBB; 
         border-radius: 8px;
        }
        nav li {
         margin: 5px;
+        border-right: solid 2px #7DADBB; 
         
        }
        nav a { 
