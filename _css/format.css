@@ -50,19 +50,23 @@ header {
        }
        nav a { 
         text-decoration: none;
-        color: black;
        }
+
        nav a:visited {
         color:#1A7595;
        }
+
        nav a:hover {
         color: #615FFF;
        }
+
        img {
         width: 40%;
         height:auto;
         border: solid 4px #ffffff;
+        float: left;
        }
+       
        .describe {
         color: #ffffff;
         font-size: large;
