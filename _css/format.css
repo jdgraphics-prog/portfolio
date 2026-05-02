@@ -79,7 +79,7 @@ footer{
 }
 .foot {
     width: 100vw;
-    position: relative;
+    position: absolute;
    
 
 }
