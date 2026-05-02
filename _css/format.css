@@ -46,6 +46,12 @@ header {
         margin: 5px;
         
        }
+       nav a { 
+        text-decoration: none;
+       }
+       nav a:visited {
+        color:coral;
+       }
        img {
         width: 40%;
         height:auto;
@@ -57,7 +63,8 @@ header {
         font-family: cursive;
        }
 footer{
-    text-align: left;
+    text-align: center;
     font-size: medium;
+    
 }
       
