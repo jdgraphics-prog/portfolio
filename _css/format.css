@@ -17,7 +17,7 @@ header {
     margin: 15px;
     text-align: center;
     width:40%;
-   
+   justify-content: center;
 }
        h1{
         color: #03385b;
@@ -87,6 +87,7 @@ footer{
     box-sizing: border-box;
     width: 100%;
     align-self: stretch;
+    
 
 }
       
